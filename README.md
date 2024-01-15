@@ -20,6 +20,15 @@ Generate a comprehensive README for your GitHub project using this Markdown READ
 
 This tool is designed to simplify the process of creating a README file for your GitHub project. It utilizes OpenAI's GPT-3.5 for natural language generation.
 
+## Demo
+A demo video showcasing the functionality and capabilities of this GitHub ```Markdown README Generator``` can be found
+
+- https://github.com/Jakefred6/README-Generator-App/video/Walkthrough.mkv
+
+#### OR 
+
+<img src='video\Walkthrough.gif'>
+
 ## Installation
 
 To install the README generator, follow these steps:
