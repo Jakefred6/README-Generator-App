@@ -105,55 +105,6 @@ const questions = [
   },
 ];
 
-// const questions = [
-//     {
-//         type: 'input',
-//         name: 'title',
-//         message: 'What is the title of your project?',
-//     },
-//     {
-//         type: 'editor',
-//         name: 'description',
-//         message: 'Provide a brief description of your project:',
-//     },
-//     {
-//         type: 'editor',
-//         name: 'installation',
-//         message: 'How can users install your project? Provide installation instructions:',
-//     },
-//     {
-//         type: 'editor',
-//         name: 'usage',
-//         message: 'How should users use your project? Provide usage information:',
-//     },
-//     {
-//         type: 'list',
-//         name: 'license',
-//         message: 'Choose a license for your project:',
-//         choices: ['MIT', 'GNU GPLv3', 'Apache 2.0', 'None'],
-//     },
-//     {
-//         type: 'editor',
-//         name: 'contributing',
-//         message: 'How can others contribute to your project? Provide contribution guidelines:',
-//     },
-//     {
-//         type: 'editor',
-//         name: 'tests',
-//         message: 'What are the testing instructions for your project?',
-//     },
-//     {
-//         type: 'input',
-//         name: 'username',
-//         message: 'What is your GitHub username?',
-//     },
-//     {
-//         type: 'input',
-//         name: 'email',
-//         message: 'What is your email address?',
-//     },
-// ];
-
 // Function to write README file
 function writeToFile(fileName, data) {
   fs.writeFile(fileName, data, (err) =>

@@ -11,7 +11,7 @@ const licenses = {
   "Eclipse Public License 2.0": "EPL-2.0",
   "CC BY": "CC%20BY",
   "CC BY-SA": "CC%20BY-SA",
-  CC0: "CC0",
+  "CC0": "CC0",
   "ISC License": "ISC",
   "Microsoft Public License": "Ms-PL",
   "Common Development and Distribution License": "CDDL-1.0",
